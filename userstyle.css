@@ -1,0 +1,75 @@
+@-moz-document url-prefix("https://chat.google.com/") {
+.WQKmIb .Bl2pUd {
+    background-color: #333 !important;
+}
+.dsoUjb {
+    background-color: #333 !important;
+}
+
+/* text */
+.cmEq8b .Zc1Emd,
+.cmEq8b .Z4BnXb {
+    color: #ffffff !important;
+}
+/* messages */
+.oGsu4 {
+    background-color: #333 !important;
+}
+.XbbXmb.zzVqCe .nF6pT,
+.dsoUjb .jGyvbd .jO0Dzb {
+    background-color: #333 !important;
+}
+/* names */
+.cmEq8b .Z4BnXb .njhDLd {
+    color: #b9edff !important;
+}
+/* time */
+.b8Cb3d {
+    color: #e4f0ff !important;
+}
+
+/** Bottom form **/
+.WQKmIb .byY7Yb {
+    background-color: #333 !important;
+}
+.XganBc {
+    background-color: #333 !important;
+}
+.PhFuQe.yXgmRe .dJ9vNe {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+.WQKmIb .oAzRtb {
+    color: #eee !important;
+}
+/* SIDE BAR */
+.X9KLPc {
+    background: #333 !important;
+    border-right: solid 1px #5f6368 !important;
+}
+.d6pS5 {
+    box-shadow: none !important;
+}
+.aOHsTc {
+    color: #b9edff !important;
+}
+.t5F5nf {
+    color: #eee !important;
+}
+.fKz7Od {
+    fill: #4285f4 !important;
+}
+.IL9EXe.qs41qe {
+    background-color: #454545 !important;
+}
+.PL5Wwe.qs41qe:not(.H7du2) .kjWKTd {
+    color: #eee !important;
+}
+.FS4hgd.iWO5td .ojqkvd,
+.FS4hgd.iWO5td,
+.dHI9xe.qs41qe,
+.dHI9xe.KKjvXb.KKjvXb,
+.dHI9xe.qs41qe .ojqkvd.ojqkvd,
+.dHI9xe.KKjvXb.KKjvXb .ojqkvd {
+    color: #4285f4 !important;
+}
+}
